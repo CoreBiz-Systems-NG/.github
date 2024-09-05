@@ -13,7 +13,7 @@ Automated Restocking Notifications
 Data-Driven Inventory Forecasting
 Barcode & QR Code Integration
 
-2. MultiBizTrek – Multi-Business Management Solutions
+# 2. MultiBizTrek – Multi-Business Management Solutions
 MultiBizTrek offers an all-in-one solution for managing multiple businesses or business units. From financial tracking to employee management, this platform provides seamless integration and real-time analytics to optimize business operations.
 
 Unified Business Dashboard
